@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\\u0443\u043D\u0438\u0432\u0435\u0440 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041A\u0421\u0418\u0421\\LAB3\u043A\u043E\u043F\u0438\u044F\\ChatClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF07F97-381E-47AB-8155-45C7CC21ABA4}|ChatClient.csproj|c:\\users\\user\\onedrive\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440 \u0440\u0430\u0431\u043E\u0442\u044B\\\u043A\u0441\u0438\u0441\\lab3\u043A\u043E\u043F\u0438\u044F\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF07F97-381E-47AB-8155-45C7CC21ABA4}|ChatClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\\u0443\u043D\u0438\u0432\u0435\u0440 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041A\u0421\u0418\u0421\\LAB3\u043A\u043E\u043F\u0438\u044F\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\\u0443\u043D\u0438\u0432\u0435\u0440 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041A\u0421\u0418\u0421\\LAB3\u043A\u043E\u043F\u0438\u044F\\ChatClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:52:54.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
